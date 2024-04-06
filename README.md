@@ -44,4 +44,4 @@ MIT
 | Name            | Github                                         | Discord         |
 | --------------- | ---------------------------------------------- | --------------- |
 | TechZombie333 | [@Kundan](https://github.com/TechZombie333)   | codefunky   |
-| Aditya101 | [@harshshen](https://github.com/EliteCoder20)   | elitecoder1001  |
+| Aditya101 | [@aditya](https://github.com/EliteCoder20)   | elitecoder1001  |
