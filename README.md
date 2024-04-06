@@ -39,7 +39,7 @@ Tradier fits into the Ethereum Foundation's Ethereum track by utilizing the Ethe
 ## LICENSE
 MIT
 
-### Build with love by Team Engineerians
+## Build with love by Team Engineerians
 
 | Name            | Github                                         | Discord         |
 | --------------- | ---------------------------------------------- | --------------- |
