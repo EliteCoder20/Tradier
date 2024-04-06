@@ -40,3 +40,8 @@ Tradier fits into the Ethereum Foundation's Ethereum track by utilizing the Ethe
 MIT
 
 ### Build with love by Team Engineerians
+
+| Name            | Github                                         | Discord         |
+| --------------- | ---------------------------------------------- | --------------- |
+| TechZombie333 | [@Kundan](https://github.com/TechZombie333)   | codefunky   |
+| Aditya101 | [@aditya](https://github.com/EliteCoder20)   | elitecoder1001  |
